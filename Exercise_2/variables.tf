@@ -5,12 +5,12 @@ variable "region" {
 
 variable "access_key" {
   type = string
-  default = "AKIAYLR572NMLWBZAQJ3"
+  default = ""
 }
 
 variable "secret_key" {
   type = string
-  default = "LaAOwnyhJSx2FW291q1YSiUNPsqggypEUMsTlycO"
+  default = ""
 }
 
 variable "archive_name" {
